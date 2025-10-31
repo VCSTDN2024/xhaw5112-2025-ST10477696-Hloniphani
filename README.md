@@ -1,8 +1,13 @@
 # EmpowerWeb - Empowering The Nation
 
-A comprehensive web platform for skills development and training courses, designed to empower individuals with practical skills for personal and professional growth.
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/VCSTDN2024/xhaw5112-2025-ST10477696-Hloniphani)
 
-## 🌟 Features
+A comprehensive web platform for skills development and training courses, designed to empower individuals with practical skills for personal and professional growth. This project includes both web application and Android mobile app components.
+
+## 🔗 Repository
+**GitHub:** https://github.com/VCSTDN2024/xhaw5112-2025-ST10477696-Hloniphani
+
+## 🌟 Web Application Features
 
 - **Course Catalog**: Browse and explore various skill development courses
 - **Interactive Calculator**: Calculate course fees and duration
@@ -11,35 +16,56 @@ A comprehensive web platform for skills development and training courses, design
 - **Responsive Design**: Optimized for all devices and screen sizes
 - **Modern UI/UX**: Clean, professional interface with smooth animations
 
+## 📱 Mobile App Features
+
+- **Android Application**: Native Android app with Material Design
+- **Course Management**: Six-month and six-week course options
+- **Fee Calculator**: Automatic discount calculation system
+- **Secure Payment**: Credit card validation with Luhn algorithm
+- **Contact Integration**: Direct calling and Google Maps integration
+
 ## 🚀 Technologies Used
 
+### Web Application
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Styling**: Modern CSS with Flexbox/Grid, Custom Properties
 - **Icons**: Font Awesome
 - **Fonts**: Google Fonts (Inter)
 - **Responsive**: Mobile-first design approach
 
-## 📱 Pages
+### Mobile Application
+- **Platform**: Android (Minimum SDK 24)
+- **Language**: Kotlin
+- **UI Framework**: Material Design Components
+- **Architecture**: MVVM pattern
 
-- **Home**: Landing page with hero section and course overview
-- **Courses**: Detailed course listings with pricing and duration
-- **Sign In**: User authentication with validation and social login options
-- **Calculator**: Interactive fee calculator for course planning
-- **Campus Information**: Details about training locations
+## 📋 Course Offerings
+
+### Six-Month Courses (R1500 each)
+- First Aid
+- Sewing
+- Landscaping
+- Life Skills
+
+### Six-Week Courses (R750 each)
+- Child Minding
+- Cooking
+- Garden Maintenance
 
 ## 🔧 Installation & Setup
 
+### Web Application
 1. Clone the repository:
 ```bash
 git clone https://github.com/VCSTDN2024/xhaw5112-2025-ST10477696-Hloniphani.git
 ```
 
-2. Navigate to the project directory:
+2. Navigate to the web directory:
 ```bash
-cd xhaw5112-2025-ST10477696-Hloniphani
+cd xhaw5112-2025-ST10477696-Hloniphani/Empowerweb
 ```
 
-3. Open `index.html` in your web browser or use a local server:
+3. Open `Index.html` in your web browser or use a local server:
 ```bash
 # Using Python
 python -m http.server 8000
@@ -47,6 +73,12 @@ python -m http.server 8000
 # Using Node.js (if you have live-server installed)
 live-server
 ```
+
+### Android Application
+1. Open Android Studio
+2. Select "Open an existing project"
+3. Navigate to the project root directory
+4. Sync Gradle files and run the app
 
 ## 📋 Form Validation
 
@@ -70,10 +102,6 @@ The sign-in form includes comprehensive validation:
 - **Tablet Friendly**: Adapted layouts for medium screens
 - **Desktop Enhanced**: Full-featured desktop experience
 
-## 🔗 Repository
-
-**GitHub Repository**: [https://github.com/VCSTDN2024/xhaw5112-2025-ST10477696-Hloniphani](https://github.com/VCSTDN2024/xhaw5112-2025-ST10477696-Hloniphani)
-
 ## 👨‍💻 Author
 
 **Student ID**: ST10477696  
@@ -88,6 +116,19 @@ This project is created for educational purposes as part of the XHAW5112 course 
 ## 🤝 Contributing
 
 This is a student project. For any suggestions or improvements, please create an issue in the repository.
+
+## 📞 Support
+
+For support and inquiries:
+- **Central Campus:** (011) 123-4567
+- **North Campus:** (011) 234-5678
+- **South Campus:** (011) 345-6789
+
+## 🔗 Social Media
+
+- [Instagram](https://instagram.com/empoweringthenation)
+- [LinkedIn](https://linkedin.com/company/empoweringthenation)
+- [Facebook](https://facebook.com/empoweringthenation)
 
 ---
 
