@@ -102,10 +102,9 @@ The sign-in form includes comprehensive validation:
 - **Tablet Friendly**: Adapted layouts for medium screens
 - **Desktop Enhanced**: Full-featured desktop experience
 
-## 👨‍💻 Author
+## 👨‍💻 Made by:
 
-**Student ID**: ST10477696  
-**Name**: Hloniphani  
+**Names**: Hloniphani Dube Mlambo, Sibusisekile Celso Sithole, Mufura Emadi Tshipama
 **Course**: XHAW5112  
 **Year**: 2025
 
